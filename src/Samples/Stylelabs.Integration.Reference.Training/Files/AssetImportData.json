@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Chicken & pomegranate salad",
+    "description": "Asset #1: Spinach, chicken & pomegranate salad",
+    "status": "Approved",
+    "imageUrl": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg?w=1260&h=750&auto=compress&cs=tinysrgb"
+  },
+  {
+    "title": "Parsley",
+    "description": "Asset #2: Parsley",
+    "status": "Approved",
+    "imageUrl": "https://images.pexels.com/photos/606540/pexels-photo-606540.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
+  },
+  {
+    "title": "Sushi",
+    "description": "Asset #3: Sushi",
+    "status": "Created",
+    "imageUrl": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
+  }
+]
